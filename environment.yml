@@ -1,0 +1,19 @@
+name: glaciers
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - geopandas
+  - xarray
+  - rasterio
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - pandas
+  - numpy
+  - pip
+  - pip:
+    - cdsapi>=0.7.7
+
+

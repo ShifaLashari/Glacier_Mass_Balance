@@ -1,0 +1,9 @@
+cdsapi>=0.7.7
+geopandas
+xarray
+rasterio
+scikit-learn
+matplotlib
+jupyter
+pandas
+numpy
