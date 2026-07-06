@@ -7,3 +7,5 @@ matplotlib
 jupyter
 pandas
 numpy
+seaborn
+shap
